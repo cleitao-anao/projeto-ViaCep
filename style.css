@@ -40,7 +40,7 @@ body {
 }/*posicão da tabela*/
 
 #caixinha {
-    background-color: rgb(252, 255, 71);
+    background-color: rgb(255, 255, 255);
 }/*style da caixinha encima da tabela*/
 
 table {
@@ -57,8 +57,6 @@ table {
 
 .titulo {
     text-align: center;
-    
-
 }/*"CEP"*/
 
 
